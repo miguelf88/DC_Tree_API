@@ -10,4 +10,5 @@ There are two endpoints
 `/getByParam` can take two parameters:
   `ward` and `condition`
   Possible values for `ward` are `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`
+
   Possible values for `condition` are `Fair`, `Good`, `Excellent`, ` `, `Dead`, `Poor`
