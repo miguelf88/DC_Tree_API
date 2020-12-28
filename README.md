@@ -8,7 +8,7 @@ There are two endpoints
 `/getAll` returns the entire dataset
 
 `/getByParam` can take two parameters:
-  `ward` and `condition`
-  Possible values for `ward` are `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`
+  'ward' and 'condition'
+  Possible values for 'ward' are 1, 2, 3, 4, 5, 6, 7, 8
 
-  Possible values for `condition` are `Fair`, `Good`, `Excellent`, ` `, `Dead`, `Poor`
+  Possible values for 'condition' are Fair, Good, Excellent, Dead, Poor
